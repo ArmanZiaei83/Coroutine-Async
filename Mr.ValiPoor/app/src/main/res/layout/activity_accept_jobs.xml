@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    android:layout_height="match_parent"
+    tools:context=".presentation.activities.AcceptJobs">
+
+    <Button
+        android:id="@+id/backButton"
+        android:layout_width="40dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="14dp"
+        app:icon="@drawable/ic_baseline_arrow_forward_ios_24"
+        app:iconTint="#705F5F"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/accpetedJobsRecyclerView"
+        android:layout_width="410dp"
+        android:layout_height="match_parent"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="32dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/searchResults"
+        app:layout_constraintVertical_bias="0.022" />
+
+    <TextView
+        android:id="@+id/acceptedJobs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="55dp"
+        android:textStyle="bold"
+        android:fontFamily="@font/iran_sans"
+        android:text="جستوحوی کسب و کارهای تایید شده"
+        android:textColor="@color/white"
+        android:textSize="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/searchForWatingJobs"
+        android:layout_width="370dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:background="@drawable/text_view"
+        android:ems="10"
+        android:fontFamily="@font/iran_sans"
+        android:gravity="center_vertical|right"
+        android:hint="شماره یا نام ارائه دهندگان"
+        android:inputType="textPersonName"
+        android:padding="12dp"
+        android:textColor="@color/white"
+        android:textColorHint="#6F6F6F"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/acceptedJobs"
+        tools:ignore="RtlCompat" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/searchResults"
+        android:layout_width="350dp"
+        android:layout_height="65dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:backgroundTint="#95BA6A"
+        android:fontFamily="@font/iran_sans"
+        android:text="جستوحو"
+        app:cornerRadius="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.488"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/searchForWatingJobs" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

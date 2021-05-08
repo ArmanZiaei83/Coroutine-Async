@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85439178-2320-4ba2-9daf-6a76dffbcd3f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Bundle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlatMapRx/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntentService/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KotlinDagger/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiveData/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MVP/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Retrofit/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RetrofitPDP/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RxJavaDebounce/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RxRecyclerView/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rxjava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RxjavaBuffer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rxjavacreate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cal_0/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cal_0/app/src/main/res/drawable/circle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retrofitPOST/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlarmManager/app/src/main/java/com/example/alarmmanager/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlarmManager/app/src/main/java/com/example/alarmmanager/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlarmManager/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/AlarmManager/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alibaba/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Alibaba/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bundle/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bundle/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bundle/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Bundle/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bundle/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Bundle/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cal/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cal/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cal/app/src/main/java/com/example/cal/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cal/app/src/main/java/com/example/cal/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cal/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cal/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cal/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Cal/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cal/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Cal/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chornometer/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chornometer/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chornometer/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Chornometer/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanGallery/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CleanGallery/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanGallery/app/src/main/java/com/example/cleangallery/presentation/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/CleanGallery/app/src/main/java/com/example/cleangallery/presentation/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanGallery/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/CleanGallery/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DI/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DI/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DI/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/DI/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dagger-Retrofit/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Dagger-Retrofit/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DaggerBinds/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DaggerBinds/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DaggerBinds/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/DaggerBinds/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DaggerCar/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DaggerCar/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DaggerCar/app/src/main/java/com/example/dagger_car/Dagger/CarComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/DaggerCar/app/src/main/java/com/example/dagger_car/Dagger/CarComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DaggerCar/app/src/main/java/com/example/dagger_car/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/DaggerCar/app/src/main/java/com/example/dagger_car/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DaggerCar/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/DaggerCar/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DaggerModule/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DaggerModule/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DaggerModule/app/src/main/java/com/example/dagger_module/Dagger/BusinessComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/DaggerModule/app/src/main/java/com/example/dagger_module/Dagger/BusinessComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DaggerModule/app/src/main/java/com/example/dagger_module/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/DaggerModule/app/src/main/java/com/example/dagger_module/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DaggerModule/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/DaggerModule/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DaggerNamedBindsInstanceComponentBuilder/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DaggerNamedBindsInstanceComponentBuilder/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DaggerNamedBindsInstanceComponentBuilder/app/src/main/java/com/example/dagger_named_bindsinstance_componentbuilder/Dagger/UserModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/DaggerNamedBindsInstanceComponentBuilder/app/src/main/java/com/example/dagger_named_bindsinstance_componentbuilder/Dagger/UserModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DaggerNamedBindsInstanceComponentBuilder/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/DaggerNamedBindsInstanceComponentBuilder/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DaggerRuntimeValues/app/src/main/java/com/example/daggerruntimevalues/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/DaggerRuntimeValues/app/src/main/java/com/example/daggerruntimevalues/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DaggerRuntimeValues/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/DaggerRuntimeValues/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExoMediaPlayer/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExoMediaPlayer/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExoMediaPlayer/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExoMediaPlayer/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExoMediaPlayer/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExoMediaPlayer/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExoMediaPlayer/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/ExoMediaPlayer/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlatMapRx/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FlatMapRx/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlatMapRx/app/src/main/java/com/example/flatmaprx/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlatMapRx/app/src/main/java/com/example/flatmaprx/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlatMapRx/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/FlatMapRx/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlatMapRx/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/FlatMapRx/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlatMapRx/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/FlatMapRx/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForegroundServices/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ForegroundServices/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForegroundServices/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/ForegroundServices/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fragment/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Fragment/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GsontoJson/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GsontoJson/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GsontoJson/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/GsontoJson/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intent/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Intent/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intent/app/src/main/java/com/example/intent/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intent/app/src/main/java/com/example/intent/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intent/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Intent/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntentService/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntentService/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntentService/app/src/main/java/com/example/intentservice/IntentServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntentService/app/src/main/java/com/example/intentservice/IntentServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntentService/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/IntentService/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KotlinDagger/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinDagger/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KotlinDagger/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinDagger/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/List/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/List/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/List/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/List/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/app/src/main/java/com/example/list/ExampleAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/app/src/main/java/com/example/list/ExampleAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/List/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/List/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/List/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LiveData/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LiveData/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LiveData/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LiveData/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LiveData/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LiveData/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LiveData/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/LiveData/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVP/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MVP/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MVP/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVP/app/src/main/java/com/example/mvp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/MVP/app/src/main/java/com/example/mvp/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVP/app/src/main/java/com/example/mvp/SignInPresentor.java" beforeDir="false" afterPath="$PROJECT_DIR$/MVP/app/src/main/java/com/example/mvp/SignInPresentor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVP/app/src/main/java/com/example/mvp/SingIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/MVP/app/src/main/java/com/example/mvp/SingIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVP/app/src/main/java/com/example/mvp/loginAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/MVP/app/src/main/java/com/example/mvp/loginAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVP/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/MVP/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationChannel/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/NotificationChannel/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/app/src/main/java/com/example/observerpattern/Channel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/app/src/main/java/com/example/observerpattern/Channel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/app/src/main/java/com/example/observerpattern/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/app/src/main/java/com/example/observerpattern/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Okhttp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Okhttp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OkhttpRequest/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OkhttpRequest/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OkhttpRequest/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/OkhttpRequest/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RadioButton_practice/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RadioButton_practice/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RadioButton_practice/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RadioButton_practice/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RadioButton_practice/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/RadioButton_practice/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrofit/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Retrofit/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrofit/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Retrofit/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrofit/app/src/main/java/com/example/retrofit/JsonPlaceHolderApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Retrofit/app/src/main/java/com/example/retrofit/JsonPlaceHolderApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrofit/app/src/main/java/com/example/retrofit/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Retrofit/app/src/main/java/com/example/retrofit/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrofit/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Retrofit/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetrofitPDP/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RetrofitPDP/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetrofitPDP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RetrofitPDP/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetrofitPDP/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/RetrofitPDP/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoomDbRetroRx/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RoomDbRetroRx/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoomDbRetroRx/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/RoomDbRetroRx/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RxJavaDebounce/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RxJavaDebounce/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RxJavaDebounce/app/src/main/java/com/example/rxjava_debounce/MainViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/RxJavaDebounce/app/src/main/java/com/example/rxjava_debounce/MainViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RxJavaDebounce/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/RxJavaDebounce/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RxJavaThrottleFirst/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RxJavaThrottleFirst/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RxJavaThrottleFirst/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/RxJavaThrottleFirst/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RxJavaThrottleFirst/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/RxJavaThrottleFirst/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RxRecyclerView/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/RxRecyclerView/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RxRoomRetrofit/app/src/main/java/com/example/rxroomretrofit/MainViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/RxRoomRetrofit/app/src/main/java/com/example/rxroomretrofit/MainViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RxRoomRetrofit/app/src/main/java/com/example/rxroomretrofit/recyclerViewPack/UserAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/RxRoomRetrofit/app/src/main/java/com/example/rxroomretrofit/recyclerViewPack/UserAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RxRoomRetrofit/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/RxRoomRetrofit/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rxjava-Range-Map/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Rxjava-Range-Map/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rxjava/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Rxjava/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rxjava/app/src/main/java/com/example/rxjava/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rxjava/app/src/main/java/com/example/rxjava/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rxjava/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Rxjava/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RxjavaBuffer/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RxjavaBuffer/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RxjavaBuffer/app/src/main/java/com/example/rxjava_buffer/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/RxjavaBuffer/app/src/main/java/com/example/rxjava_buffer/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RxjavaBuffer/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/RxjavaBuffer/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rxjavacreate/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Rxjavacreate/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rxjavacreate/app/src/main/java/com/example/rxjava_create/MainViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rxjavacreate/app/src/main/java/com/example/rxjava_create/MainViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rxjavacreate/app/src/main/java/com/example/rxjava_create/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rxjavacreate/app/src/main/java/com/example/rxjava_create/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rxjavacreate/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Rxjavacreate/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServiceMusicPlayer/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ServiceMusicPlayer/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServiceMusicPlayer/app/src/main/java/com/example/servicemusicplayer/MusicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServiceMusicPlayer/app/src/main/java/com/example/servicemusicplayer/MusicService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServiceMusicPlayer/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/ServiceMusicPlayer/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sqlite/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Sqlite/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sqlite/app/src/main/java/com/example/sqlite/InfoDb.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sqlite/app/src/main/java/com/example/sqlite/InfoDb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sqlite/app/src/main/java/com/example/sqlite/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sqlite/app/src/main/java/com/example/sqlite/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sqlite/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Sqlite/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tico/app/src/main/java/com/example/tico/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tico/app/src/main/java/com/example/tico/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tico/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tico/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tico/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Tico/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal_0/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cal_0/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal_0/app/src/main/java/com/example/cal_0/Cal.java" beforeDir="false" afterPath="$PROJECT_DIR$/cal_0/app/src/main/java/com/example/cal_0/Cal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal_0/app/src/main/java/com/example/cal_0/LogingActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/cal_0/app/src/main/java/com/example/cal_0/LogingActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal_0/app/src/main/java/com/example/cal_0/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/cal_0/app/src/main/java/com/example/cal_0/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal_0/app/src/main/java/com/example/cal_0/SingUpActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/cal_0/app/src/main/java/com/example/cal_0/SingUpActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal_0/app/src/main/java/com/example/cal_0/savingData.java" beforeDir="false" afterPath="$PROJECT_DIR$/cal_0/app/src/main/java/com/example/cal_0/savingData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal_0/app/src/main/res/layout/activity_cal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cal_0/app/src/main/res/layout/activity_cal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal_0/app/src/main/res/layout/activity_loging.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cal_0/app/src/main/res/layout/activity_loging.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal_0/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cal_0/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal_0/app/src/main/res/layout/activity_sing_up.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cal_0/app/src/main/res/layout/activity_sing_up.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cal_0/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/cal_0/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retrofitPOST/app/src/main/java/com/example/retrofit_post/JsonPlaceHolderApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/retrofitPOST/app/src/main/java/com/example/retrofit_post/JsonPlaceHolderApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retrofitPOST/app/src/main/java/com/example/retrofit_post/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/retrofitPOST/app/src/main/java/com/example/retrofit_post/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retrofitPOST/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/retrofitPOST/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retrofitPOST/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/retrofitPOST/gradlew" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AlarmManager" />
+  </component>
+  <component name="ProjectId" id="1sFt7RR3yn0Y3OD74qIhMVUreNh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85439178-2320-4ba2-9daf-6a76dffbcd3f" name="Default Changelist" comment="" />
+      <created>1620479997478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620479997478</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="187" key="run.anything.popup" timestamp="1620480046799">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1620480046799" />
+  </component>
+</project>

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    android:layout_height="match_parent"
+    tools:context=".presentation.activities.UnacceptedJobInfo">
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/infoUnacceptedJobs">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="390dp"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="10dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="100dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/cons_view_users"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="10dp"
+            app:layout_constraintVertical_bias="1.0">
+
+            <TextView
+                android:id="@+id/unacceptedEtTak"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="12dp"
+                android:layout_marginEnd="8dp"
+                android:fontFamily="@font/iran_sans"
+                android:text="اطلاعات تکمیلی"
+                android:textColor="@color/white"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/unacceptedInfoTitle"
+                android:layout_width="365dp"
+                android:layout_height="63dp"
+                android:layout_marginStart="6dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="6dp"
+                android:background="@drawable/text_view"
+                android:fontFamily="@font/iran_sans"
+                android:gravity="center_vertical|start"
+                android:padding="13dp"
+                android:text="سلام"
+                android:textColor="@color/white"
+                android:textSize="14dp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.434"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/unacceptedEtTak"
+                tools:ignore="RtlCompat" />
+
+            <TextView
+                android:id="@+id/unacceptedInfoPart"
+                android:layout_width="365dp"
+                android:layout_height="63dp"
+                android:layout_marginStart="6dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="6dp"
+                android:background="@drawable/text_view"
+                android:fontFamily="@font/iran_sans"
+                android:gravity="center_vertical|start"
+                android:padding="13dp"
+                android:text="بخش: "
+                android:textColor="@color/white"
+                android:textSize="14dp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/unacceptedInfoTitle"
+                tools:ignore="RtlCompat" />
+
+            <TextView
+                android:id="@+id/unacceptedInfoState"
+                android:layout_width="365dp"
+                android:layout_height="63dp"
+                android:layout_marginStart="6dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="6dp"
+                android:background="@drawable/text_view"
+                android:fontFamily="@font/iran_sans"
+                android:gravity="center_vertical|start"
+                android:padding="13dp"
+                android:text="استان تحت پوشش: "
+                android:textColor="@color/white"
+                android:textSize="14dp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/unacceptedInfoPart"
+                tools:ignore="RtlCompat" />
+
+            <TextView
+                android:id="@+id/unacceptedInfoPhone"
+                android:layout_width="365dp"
+                android:layout_height="63dp"
+                android:layout_marginStart="6dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="6dp"
+                android:background="@drawable/text_view"
+                android:fontFamily="@font/iran_sans"
+                android:gravity="center_vertical|start"
+                android:padding="13dp"
+                android:text="تلفن همراه: "
+                android:textColor="@color/white"
+                android:textSize="14dp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/unacceptedInfoState"
+                tools:ignore="RtlCompat" />
+
+            <TextView
+                android:id="@+id/unacceptedInfoEmail"
+                android:layout_width="365dp"
+                android:layout_height="63dp"
+                android:layout_marginStart="6dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="6dp"
+                android:background="@drawable/text_view"
+                android:fontFamily="@font/iran_sans"
+                android:gravity="center_vertical|start"
+                android:padding="13dp"
+                android:text="ایمیل: "
+                android:textColor="@color/white"
+                android:textSize="14dp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/unacceptedInfoPhone"
+                tools:ignore="RtlCompat" />
+
+            <TextView
+                android:id="@+id/unacceptedInfoGift"
+                android:layout_width="365dp"
+                android:layout_height="63dp"
+                android:layout_marginStart="6dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="6dp"
+                android:background="@drawable/text_view"
+                android:fontFamily="@font/iran_sans"
+                android:gravity="center_vertical|start"
+                android:padding="13dp"
+                android:text="اختصاص اعتبار هدیه"
+                android:textColor="@color/white"
+                android:textSize="14dp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/unacceptedInfoEmail"
+                tools:ignore="RtlCompat" />
+
+            <ImageButton
+                android:id="@+id/unacceptedInfoShowGift"
+                android:layout_width="350dp"
+                android:layout_height="60dp"
+                android:layout_marginStart="14dp"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_marginTop="440dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageButton
+                android:id="@+id/unacceptedInfoHideGift"
+                android:layout_width="350dp"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_height="60dp"
+                android:layout_marginStart="14dp"
+                android:layout_marginTop="440dp"
+                android:visibility="invisible"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/unacceptedInfotConstraintLayout"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="10dp"
+                android:visibility="gone"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.4"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/unacceptedInfoGift"
+                app:layout_constraintVertical_bias="0.142">
+
+                <TextView
+                    android:id="@+id/unacceptedTextView3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:fontFamily="@font/iran_sans"
+                    android:text="هدیه ارتقا لوگو"
+                    android:textColor="#705F5F"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/unacceptedTextView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:fontFamily="@font/iran_sans"
+                    android:text="هدیه تماس رایگان"
+                    android:textColor="#705F5F"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/unacceptedTextView3" />
+
+                <TextView
+                    android:id="@+id/unacceptedInfoLogoGift"
+                    android:layout_width="70dp"
+                    android:layout_height="25dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:fontFamily="@font/iran_sans"
+                    android:text="0"
+                    android:textColor="#705F5F"
+                    app:layout_constraintStart_toEndOf="@+id/unacceptedTextView5"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/unacceptedInfoCallGift"
+                    android:layout_width="70dp"
+                    android:layout_height="25dp"
+                    android:layout_marginTop="20dp"
+                    android:fontFamily="@font/iran_sans"
+                    android:text="0"
+                    android:textColor="#705F5F"
+                    app:layout_constraintStart_toStartOf="@+id/unacceptedInfoLogoGift"
+                    app:layout_constraintTop_toBottomOf="@+id/unacceptedInfoLogoGift" />
+
+                <TextView
+                    android:id="@+id/unacceptedTextView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:fontFamily="@font/iran_sans"
+                    android:text="تومان"
+                    android:textColor="#705F5F"
+                    app:layout_constraintStart_toEndOf="@+id/unacceptedLogoGiftHistory"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/unacceptedTextView4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="15dp"
+                    android:fontFamily="@font/iran_sans"
+                    android:text="تومان"
+                    android:textColor="#705F5F"
+                    app:layout_constraintStart_toEndOf="@+id/unacceptedfreeCallGiftHistory"
+                    app:layout_constraintTop_toBottomOf="@+id/unacceptedTextView5" />
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/unacceptedLogoGiftHistory"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="75dp"
+                    android:layout_height="45dp"
+                    android:fontFamily="@font/iran_sans"
+                    android:text="سوابق"
+                    android:clickable="true"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:textColor="#95BA6A"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/unacceptedfreeCallGiftHistory"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="75dp"
+                    android:layout_height="45dp"
+                    android:clickable="true"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+                    android:fontFamily="@font/iran_sans"
+                    android:text="سوابق"
+                    android:textColor="#95BA6A"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/unacceptedLogoGiftHistory" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <Switch
+                android:id="@+id/unacceptedIsAccepted"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="8dp"
+                android:thumb="@drawable/switchbutton"
+                android:track="@drawable/switchtrack"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/unacceptedInfotConstraintLayout" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/unacceptedCancel"
+                android:layout_width="100dp"
+                android:layout_height="60dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginEnd="135dp"
+                android:backgroundTint="#95BA6A"
+                android:fontFamily="@font/iran_sans"
+                android:text="انصراف"
+                android:textColor="@color/white"
+                app:cornerRadius="15dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/unacceptedIsAccepted" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/unacceptedSubmit"
+                android:layout_width="100dp"
+                android:layout_height="60dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginEnd="16dp"
+                android:backgroundTint="#95BA6A"
+                android:fontFamily="@font/iran_sans"
+                android:text="تایید"
+                android:textColor="@color/white"
+                app:cornerRadius="15dp"
+                app:layout_constraintEnd_toStartOf="@+id/unacceptedCancel"
+                app:layout_constraintTop_toBottomOf="@+id/unacceptedIsAccepted" />
+
+            <TextView
+                android:id="@+id/unacceptedJobShow"
+                android:layout_width="25dp"
+                android:background="@drawable/ic_baseline_keyboard_arrow_down_24"
+                android:layout_height="25dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="35dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/unacceptedInfoEmail" />
+
+            <TextView
+                android:id="@+id/unacceptedJobHide"
+                android:layout_width="25dp"
+                android:background="@drawable/ic_baseline_keyboard_arrow_up_24"
+                android:layout_height="25dp"
+                android:visibility="gone"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="35dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/unacceptedInfoEmail" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/unacceptedInfoBack"
+        android:layout_width="40dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="14dp"
+        app:icon="@drawable/ic_baseline_arrow_forward_ios_24"
+        app:iconTint="#705F5F"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/infoUnacceptedJobs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="55dp"
+        android:textStyle="bold"
+        android:fontFamily="@font/iran_sans"
+        android:text="جستوحوی کسب و کارهای در انتظار تایید"
+        android:textColor="@color/white"
+        android:textSize="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

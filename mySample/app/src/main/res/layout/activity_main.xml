@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="408dp"
+        android:layout_height="650dp"
+        android:layout_marginBottom="1dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/amarTamas"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="آمار تماس و فراخوان"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/listOfAppUsers"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="لیست کاربران اپ"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/acceptedWorks"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="کسب و کار های تایید شده"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/watingForAcceptanceJobs"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="کسب و کار های در انتظار تایید"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/ApprovedCalls"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="فراخوان های تایید شده"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/waitingForApprovalCalls"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="فراخوان های در انتظار تایید"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/settingPrices"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="تعیین تعرفه ها"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/workTransactions"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="تراکنش های کسب و کار"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/usersTransactions"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="تراکنش های کاربران اپ"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/usersSupport"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="پشتیبانی کاربران اپ"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/usersFeedbacks"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="گزارشات کاربران اپ"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/stateDefinition"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="تعریف استان"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/cityDefinition"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="تعریف شهر"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/neighborhoodDefinition"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="تعریف محله"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/jobsDefinition"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="تعریف مشاغل"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/naghsODastresi"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="تعریف نقش و دسترسی"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/teammates"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="همکاران تیم"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/partsSearchngDef"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="تعریف و جستوجوی بخش ها"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/searchingInBrands"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="تعریف و جستوجوی برند ها"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/channelsSearch"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="تعریف و جستوجوی گروه ها"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/partsSearch"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="تعریف و جستوجوی دسته ها"
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/productionSearch"
+                android:layout_width="360dp"
+                android:layout_height="65dp"
+                android:layout_marginBottom="5dp"
+                android:backgroundTint="#202020"
+                android:text="تعریف و جستوجوی کالا و خدمات "
+                android:textSize="18dp"
+                app:cornerRadius="10dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="390dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="8dp"
+        android:gravity="center_vertical"
+        android:textColor="#E1D6D6"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:background="@drawable/shape"
+        android:textAlignment="textEnd"
+        android:text="Farshad Valipour"
+        android:textSize="22dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="87dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="#202020"
+        android:text="خروج"
+        android:textColor="#74D181"
+        android:textSize="19dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginLeft="16dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

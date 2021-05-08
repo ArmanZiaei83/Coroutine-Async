@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mrvalipoor">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_foreground"
+        android:label="Manager App"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MrValiPoor">
+        <activity android:name=".presentation.activities.UserSendFeedback"></activity>
+        <activity android:name=".presentation.activities.UserSupport" />
+        <activity
+            android:name=".presentation.activities.JobTransactions"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".presentation.activities.Tariffs"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".presentation.activities.UnacceptedJobInfo"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".presentation.activities.WaitingForAcceptanceJobs"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".presentation.activities.JobInfo"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ImageFromGallery"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".presentation.dialogs.PhotoChangedDialog"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".presentation.activities.AcceptJobs"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".presentation.activities.AppUsersList"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".presentation.activities.AmarTamasActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".presentation.activities.MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
